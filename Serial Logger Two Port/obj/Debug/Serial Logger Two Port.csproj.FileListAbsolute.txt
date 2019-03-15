@@ -1,0 +1,12 @@
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\bin\Debug\Serial Logger Two Port.exe.config
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\bin\Debug\Serial Logger Two Port.exe
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\bin\Debug\Serial Logger Two Port.pdb
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial_Logger_Two_Port.Properties.Resources.resources
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial Logger Two Port.csproj.GenerateResource.Cache
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial Logger Two Port.exe
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial Logger Two Port.pdb
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\bin\Debug\MaterialSkin.dll
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial Logger Two Port.csprojResolveAssemblyReference.cache
+c:\users\snailbot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial_Logger_Two_Port.Resource1.resources
+C:\Users\SnailBot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial_Logger_Two_Port.Main.resources
+C:\Users\SnailBot\documents\visual studio 2015\Projects\Serial Logger Two Port\Serial Logger Two Port\obj\Debug\Serial_Logger_Two_Port.About.resources
